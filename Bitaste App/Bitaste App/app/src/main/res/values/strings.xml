@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Bitaste App</string>
+    <string name="name_people">Hai, Farhan</string>
+    <string name="ads">What do you want to eat today?</string>
+    <string name="discount_50">Discount 50%</string>
+    <string name="order_your_food_through_my_app_nand_get_your_discount">Order your food through my app \nand get your discount!</string>
+    <string name="rice">Rice</string>
+    <string name="noodles">Noodles</string>
+    <string name="snack">Snack</string>
+    <string name="drink">Drink</string>
+    <string name="ayam_bakar">Grilled chicken</string>
+    <string name="rp_50_000">Rp. 50.000</string>
+    <string name="food_menu_list">Food Menu List</string>
+    <string name="ayam_goreng">Fried chicken</string>
+    <string name="rp_40_000">Rp. 40.000</string>
+    <string name="spicy_chicken_wings">Spicy Chicken Wings</string>
+    <string name="rp_60_000">Rp. 60.000</string>
+    <string name="sate_usus_ayam">Chicken satay</string>
+    <string name="rp_30_000">Rp. 30.000</string>
+    <string name="sushi">Sushi</string>
+    <string name="rp_70_000">Rp. 70.000</string>
+    <string name="cheese_spaghetti">Cheese Spaghetti</string>
+    <string name="rp_20_000">Rp. 20.000</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="location">LOCATION</string>
+    <string name="see_location">see location</string>
+    <string name="from">From</string>
+</resources>
